@@ -1,0 +1,7 @@
+robots:
+  default:
+    access_token: "替换为你的token"
+    secret: "替换为你的加签密钥"
+  monitoring:
+    access_token: "监控专用token"
+    secret: "监控专用secret"
